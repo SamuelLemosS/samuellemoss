@@ -1,4 +1,4 @@
-<h4>Alo Alo, bem vinido ao meu perfil do Github. Me chamo Samuel e atualmente estou estudando na UNICAP.</h4>
+<h4>Alo Alo, bem vindo ao meu perfil do Github. Me chamo Samuel e atualmente estou estudando Sistemas para Intenet na UNICAP.</h4>
 
 ##
 
